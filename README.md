@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ansh-shrivastava47" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ansh-shrivastava47" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anshshrivastava2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshshrivastava2" height="30" width="40" /></a>
-<a href="https://www.frontendmentor.io/profile/AnshShrivastava70" target="_blank"><img align="center" src="https://images.seeklogo.com/logo-png/40/1/frontend-mentor-logo-png_seeklogo-409416.png" alt="AnshShrivastava70" height="30" width="40" /></a>
+<a href="https://www.frontendmentor.io/profile/AnshShrivastava70" target="_blank"><img align="center" src="https://www.frontendmentor.io/_next/image?url=%2Fstatic%2Fimages%2Flogo-desktop.svg&w=640&q=75" alt="AnshShrivastava70" height="30" width="40" /></a>
 
 
 
