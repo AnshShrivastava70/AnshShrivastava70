@@ -31,7 +31,6 @@
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshShrivastava70&show_icons=true&locale=en&layout=compact" alt="AnshShrivastava70" /></p>
 
 
 <!---
